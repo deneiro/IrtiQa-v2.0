@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { JournalView } from '@/views/journal/ui/JournalView'
 
 export const metadata = {

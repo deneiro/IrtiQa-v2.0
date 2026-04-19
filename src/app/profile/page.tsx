@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { ProfileView } from '@/views/profile'
 import { Metadata } from 'next'
 

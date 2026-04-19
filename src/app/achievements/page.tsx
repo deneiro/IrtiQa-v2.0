@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { HallOfFameView } from '@/views/achievements/ui/HallOfFameView'
 
 export const metadata = {

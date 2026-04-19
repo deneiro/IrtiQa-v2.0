@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { MarketView } from '@/views/market'
 import { Metadata } from 'next'
 

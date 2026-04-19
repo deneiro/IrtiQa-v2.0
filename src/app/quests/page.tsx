@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { QuestsPage } from '@/views/quests'
 
 export const metadata = {
